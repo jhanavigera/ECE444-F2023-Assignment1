@@ -21,6 +21,8 @@ Had some conflicts within my commits. In order to resolve, I ran the following: 
 
 final result:  <br>
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/c6c13046-2f12-4f48-8253-c736e13a03c9)  <br>
+![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/c2edc8aa-4e5c-4337-9fff-892f016ebb2c) <br>
+
 
 
 
