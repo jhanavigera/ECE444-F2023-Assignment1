@@ -12,14 +12,13 @@
 **Activity five: Git rebase** <br>
 
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/cbcf3965-c573-4844-a315-a762077bda01) <br>
-![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/bef22b2b-4dc5-4c89-b476-94368c081a4e) <br>
-
+![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/6aa065d6-73a6-4679-9ac1-f6f33948049a)  <br>
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/fbb90f43-c058-4ec9-96ed-a2543cbdb4e7)  <br>
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/62bbb94d-6305-4cd3-a9ab-386db4b9ce54)  <br>
 Had some conflicts within my commits. In order to resolve, I ran the following:  <br>
 1. git add .  <br>
 2. git rebase --continue  <br>
-![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/6aa065d6-73a6-4679-9ac1-f6f33948049a)  <br>
+
 final result:  <br>
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/c6c13046-2f12-4f48-8253-c736e13a03c9)  <br>
 
