@@ -10,7 +10,10 @@
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/eadad379-d694-4b69-bd54-aced902a4556) <br>
 
 **Activity five: Git rebase** <br>
+Commit messages:
+![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/47a0a1d5-4e9f-4a11-827e-22acd68acf01)
 
+Rebase command:
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/cbcf3965-c573-4844-a315-a762077bda01) <br>
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/6aa065d6-73a6-4679-9ac1-f6f33948049a)  <br>
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/fbb90f43-c058-4ec9-96ed-a2543cbdb4e7)  <br>
