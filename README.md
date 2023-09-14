@@ -10,6 +10,10 @@
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/eadad379-d694-4b69-bd54-aced902a4556) <br>
 
 **Activity five: Git rebase** <br>
+
+![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/cbcf3965-c573-4844-a315-a762077bda01) <br>
+![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/bef22b2b-4dc5-4c89-b476-94368c081a4e) <br>
+
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/fbb90f43-c058-4ec9-96ed-a2543cbdb4e7)  <br>
 ![image](https://github.com/jhanavigera/ECE444-F2023-Assignment1/assets/76650476/62bbb94d-6305-4cd3-a9ab-386db4b9ce54)  <br>
 Had some conflicts within my commits. In order to resolve, I ran the following:  <br>
